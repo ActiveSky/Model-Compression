@@ -1,6 +1,6 @@
 # 2025.6.27-2025.7.2
 
-Code：[first-week](./first-week/code/)
+Code：[code is here](./first-week/code/)
 
 Papers：[list of papers read](./first-week/papers/)
 
