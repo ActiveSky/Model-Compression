@@ -13,7 +13,7 @@ Papers: [list of papers read](./second-week/papers/)
 Note: [Model Quantization 入门（一）](https://www.yuque.com/active_sky/jqxx/mgyk67yqumzl6h98)
 
 
-# 进度说明（7.11.2025-7.17.2025）
+# 2025.7.11.-2025.7.17
 
 Papers：[list of papers read](./third-week/papers/)
 
