@@ -10,4 +10,11 @@ Note：[Model Compression 入门](https://www.yuque.com/active_sky/jqxx/ogs9p7gv
 
 Papers: [list of papers read](./second-week/papers/)
 
-Note: [Model Quantization 论文阅读](https://www.yuque.com/active_sky/jqxx/mgyk67yqumzl6h98)
+Note: [Model Quantization 入门（一）](https://www.yuque.com/active_sky/jqxx/mgyk67yqumzl6h98)
+
+
+# 进度说明（7.11.2025-7.17.2025）
+
+Papers：[list of papers read](./third-week/papers/)
+
+Note: [Model Quantization 入门（二）](https://www.yuque.com/active_sky/jqxx/ryf9dcgcldpu76zy)
