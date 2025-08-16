@@ -24,3 +24,11 @@ Note: [Model Quantization 入门（二）](https://www.yuque.com/active_sky/jqxx
 Papers：[list of papers read](./fourth-week/papers/)
 
 Note: [KV-Cache Quantization 入门（一）](https://www.yuque.com/active_sky/jqxx/shpnhhy4fnwghg5g)
+
+# 8.2.2025-8.15.2025
+
+Code：[code is here](./fifth-week/code/)
+
+Papers：[list of papers read](./fifth-week/papers/)
+
+Note: [KV-Cache Quantization 入门（二）](https://www.yuque.com/active_sky/jqxx/rmgap6aurh5s6lpe)
